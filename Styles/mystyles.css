@@ -1,0 +1,27 @@
+/*Kristi Jones - edited 4/14/22*/
+
+.underline {text-decoration: underline;}
+
+ul{
+     font-style: italic;
+    Font-weight: normal;
+    text-decoration: normal;
+}
+
+/*This allows for the text to change when the mouse hovers over it*/
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.heading{
+    font-weight: bold;
+}
+
+ol{
+    font-weight: bold;
+}
+
+.common{
+    image-orientation: center;
+}
